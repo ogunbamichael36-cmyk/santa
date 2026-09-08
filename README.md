@@ -1,1 +1,1 @@
-this is a project that helps with the secrect santa allocation
+This is a project that helps with the secrect santa allocation
